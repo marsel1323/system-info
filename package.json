@@ -1,0 +1,23 @@
+{
+  "name": "system-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsel1323/system-info.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsel1323/system-info/issues"
+  },
+  "homepage": "https://github.com/marsel1323/system-info#readme",
+  "dependencies": {
+    "systeminformation": "^4.22.3"
+  }
+}
